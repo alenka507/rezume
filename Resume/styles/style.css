@@ -1,0 +1,284 @@
+body{
+    font-family: 'DynaPuff', cursive;
+    background-color: #f5f7fa;
+}
+.main {
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    margin: 0 auto;
+}
+.white{
+    background-color: whitesmoke;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+    padding: 105px 90px;
+}
+.about{
+    margin-right: 320px;
+    margin-bottom: 40px;
+}
+.developer{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 20px;
+    margin-bottom: 20px;
+}
+.name{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 40px;
+    margin-bottom: 25px;
+}
+.life{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    width: 400px;
+}
+.projects{
+    margin-bottom: 50px;
+}
+.h3{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    margin-bottom: 10px;
+}
+.ol{
+    padding: 0;
+    margin-left: 15px;
+}
+.project-item{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+}
+.project-information, .project-a{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+.project-a{
+    margin-left: 10px;
+}
+.bracket{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000000;
+}
+.work{
+    margin-bottom: 45px;
+}
+.Front-End{
+    margin-bottom: 15px;
+    margin-right: 215px;
+}
+.astronaut{
+    margin-bottom: 20px;
+    margin-right: 215px;
+}
+.experience{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #000000;
+    margin-bottom: 10px;
+}
+.purple{
+    color: rgba(161, 24, 51, 0.822);
+}
+.time{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #A8A8A8;
+    margin-bottom: 10px;
+}
+.line{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #000000;
+}
+.ul-work{
+    padding: 0;
+    margin-left: 15px;
+}
+.mark{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+.text-mark{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    margin-left: 10px;
+}
+.doc{
+    margin-right: 215px;
+    width: 525px;
+}
+.doctor{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: rgba(161, 24, 51, 0.822);
+    margin-bottom: 10px;
+}
+.date{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #A8A8A8;
+    margin-bottom: 10px;
+}
+.doctor-ul{
+    padding: 0;
+    margin-left: 15px;
+}
+.doctor-mark{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+.doctor-text{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    margin-left: 10px;
+}
+.edu{
+    margin-right: 415px;
+    margin-bottom: 115px;
+}
+.education{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color: #000000;
+    margin-bottom: 10px;
+}
+.school{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: rgba(161, 24, 51, 0.822);
+    margin-bottom: 10px;
+}
+.date{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #A8A8A8;
+}
+.color{
+    background-color: olive;
+    padding-top: 40px;
+    width: 370px;
+}
+.shrek{
+    width: 370px; 
+    margin-bottom: 50px;
+}
+.contacts{
+    margin-left: 40px;
+    margin-right: 110px;
+    margin-bottom: 45px;
+}
+.contact-type{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: rgb(72, 35, 35);
+    margin-right: 5px;
+}
+.contact-link{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: rgb(72, 35, 35);
+}
+.tech-skills{
+    margin-left: 40px;
+    margin-right: 210px;
+    margin-bottom: 45px;
+}
+.list{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: rgb(72, 35, 35);
+    padding: 0;
+    margin-left: 15px;
+}
+.title{
+    color: rgb(72, 35, 35);
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    margin-bottom: 10px;
+}
+.item{
+    color: rgba(161, 24, 51, 0.822);
+}
+.text{
+    color: rgb(72, 35, 35);
+}
+.soft-skills{
+    margin-left: 40px;
+    margin-right: 200px;
+    margin-bottom: 365px;
+}
+.soft-title{
+    color: rgb(72, 35, 35);
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    margin-bottom: 10px;
+}
+.ul{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: rgb(72, 35, 35);
+    padding: 0;
+    margin-left: 15px;
+}
+.li-text{
+    color: rgb(72, 35, 35);
+}
+.li{
+    color: rgba(161, 24, 51, 0.822);
+}
